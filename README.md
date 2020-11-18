@@ -9,6 +9,7 @@
 - 🤔 I’m looking for Job/Training/Inteship in Machine Learning fields 
 - 💬 Ask me about Python/Data Analysis/Computer Vision/NLP
 - 📫 How to reach me: **mohamed.abuamera@gmail.com**
+- check my Gigs: https://www.fiverr.com/mohmedtayser
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -25,4 +26,5 @@
 <a href="https://www.linkedin.com/in/mohamedabuamira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mohammed Abu Amira" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/mohamedtayser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Mohammed Abu Amira" height="30" width="30" /></a>
 <a href="https://www.upwork.com/o/profiles/users/~01db0ba43fcf0c9efb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="Mohammed Abu Amira" height="30" width="30" /></a>
+<a href="https://www.fiverr.com/mohmedtayser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fivver.svg" alt="Mohammed Abu Amira" height="30" width="30" /></a>
 </p>
