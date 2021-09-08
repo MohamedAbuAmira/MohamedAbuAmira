@@ -28,3 +28,5 @@
 <a href="https://www.kaggle.com/mohamedtayser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Mohammed Abu Amira" height="30" width="30" /></a>
 <a href="https://www.upwork.com/o/profiles/users/~01db0ba43fcf0c9efb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="Mohammed Abu Amira" height="30" width="30" /></a>
 </p>
+<a href="https://twitter.com/MohamdAbuAmira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mohammed Abu Amira" height="30" width="30" /></a>
+</p>
