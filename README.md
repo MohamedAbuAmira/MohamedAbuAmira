@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mohamed Abu Amira</h1>
-<h2 align="center">Machine Learning Engineer, Mechatronics Engineer</h2>
+<h2 align="center">Flutter Developer, Machine Learning Engineer, Mechatronics Engineer</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAbuAmira" alt="MohamedAbuAmira" /> </p>
 
 
